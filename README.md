@@ -1,4 +1,3 @@
-# Axinto-Proxy-Scrapper
                         AAA                                     iiii                         ttt:::t                           
                        A:::A                                   i::::i                        ttt:::t                           
                       A:::::A                                   iiii                         t:::::t                           
@@ -24,6 +23,9 @@ This Is The Best Proxy Aio Tool Fully Open source and working
 
 Note:
 Not all tools are mine I only own axinto proxy scrapper i have given others credit below  
+
+How to use:
+ans:run proxy.bat and choose your option
 
 Why do i need to open in sandboxie or rdp? Is this a virus?
 ans:As i said not all tools are mine
